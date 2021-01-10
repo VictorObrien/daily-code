@@ -1,4 +1,4 @@
-#Daily Code
+# Daily Code
 
 <p align="center">
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorObrien/daily-code?color=%2304D361">           
@@ -28,7 +28,7 @@ Os aplicativos desenvolvidos aqui são retirados do repositório [App Ideas](htt
 
 <a id="apps"></a>
 
-## :lamp: Apps desenvolvidos
+## :bulb: Apps desenvolvidos
 
 [Bin2Dec](https://github.com/VictorObrien/daily-code/bin2dec)
 
