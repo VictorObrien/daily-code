@@ -56,7 +56,7 @@ O projeto foi desenvolvido utilizando as tecnologias:
 <a id="licenca"></a>
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 <a id="contato"></a>
 
