@@ -28,9 +28,9 @@ Os aplicativos desenvolvidos aqui são retirados do repositório [App Ideas](htt
 
 <a id="apps"></a>
 
-## :lamp: Apps desenvolvidos
+## :bulb: Apps desenvolvidos
 
-[Bin2Dec](https://github.com/VictorObrien/daily-code/bin2dec)
+[Bin2Dec](https://github.com/VictorObrien/daily-code/tree/main/bin2dec)
 
 <a id="tecnologias"></a>
 
