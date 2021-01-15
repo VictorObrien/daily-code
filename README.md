@@ -31,7 +31,7 @@ Os aplicativos desenvolvidos aqui são retirados do repositório [App Ideas](htt
 ## :bulb: Apps desenvolvidos
 
 [Bin2Dec](https://github.com/VictorObrien/daily-code/tree/main/01-bin2dec)</br>
-[Border Radius Previewer](https://github.com/VictorObrien/daily-code/tree/main/02-border-radius-previewer)
+[Border Radius Previewer](https://github.com/VictorObrien/daily-code/tree/main/02-border-radius-previewer) :construction: Em construção
 
 <a id="tecnologias"></a>
 
