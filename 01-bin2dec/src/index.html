@@ -8,24 +8,24 @@
 </head>
 <body>
   <div id="page-landing">
-    <div class="title">
+    <header class="title">
       <h1>Bin2Dec</h1>
-    </div>
-    <div class="container">
-      <div class="binary">
-        <h2>Binário</h2>
-        <input type="text" id="binary-number" maxlength="8" onkeypress="return SomenteNumero(event)" placeholder="Insira">
+    </header>
+    <main>
+      <div class="container">
+          <div class="binary">
+            <h2>Binário</h2>
+            <input type="text" id="binary-number" maxlength="8" onkeypress="return SomenteNumero(event)" placeholder="Insira">
+          </div>
+          <div class="decimal">
+            <h2>Decimal</h2>
+            <div id="decimal-number"></div>
+          </div>
       </div>
-      <div class="decimal">
-        <h2>Decimal</h2>
-        <div id="decimal-number">
-          
-        </div>
+      <div class="button">
+        <button onclick="bin2Dec(bin.value)">Converter</button>
       </div>
-    </div>
-    <div class="button">
-      <button onclick="bin2Dec(bin.value)">Converter</button>
-    </div>
+   </main>
   </div>
   <script src="script.js"></script>
 </body>

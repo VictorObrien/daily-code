@@ -22,6 +22,7 @@ textarea:focus, input:focus, select:focus, button:focus {
 
 h2 {
   font-size: 76px;
+  align-self: center;
 }
 
 #page-landing {
@@ -51,7 +52,7 @@ h2 {
 
 .container {
   width: 100%;
-  max-width: 1100px;
+  min-width: 800px;
 
   height: 100%;
   max-height: 400px;

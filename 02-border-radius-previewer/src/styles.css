@@ -87,6 +87,11 @@ textarea:focus, input:focus, select:focus, button:focus text:focus {
   background-image: linear-gradient(150deg, #ec14ec, #0d7eb3);
 }
 
+.clip-board {
+  display: flex;
+  justify-content: center;
+}
+
 #clip-text {
   width: 400px;
   background-color: #FFF;
